@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Cartoon]]></title>
+  <link href="cartoon.github.io/atom.xml" rel="self"/>
+  <link href="cartoon.github.io/"/>
+  <updated>2014-03-28T21:07:55-05:00</updated>
+  <id>cartoon.github.io/</id>
+  <author>
+    <name><![CDATA[mightrs]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Un Nuevo Camino]]></title>
+    <link href="cartoon.github.io/blog/2014/03/28/un-nuevo-camino/"/>
+    <updated>2014-03-28T20:37:57-05:00</updated>
+    <id>cartoon.github.io/blog/2014/03/28/un-nuevo-camino</id>
+    <content type="html"><![CDATA[<p>Desde que empeze en el mundo de la informatica en general siempre he querido tener un blog o bitácora personal en la cual
+contar mis experiencias, pasaron los días y nunca he podido mantener uno de estos creo que en parte es una obligación un poco grande, pero despues de mucho pensar me decidí a crear Cartoon una bitácora personal en la cual contaré de todo un poco, en especial de Haskell, GNU/linux, distros como Crunchbang y Lubuntu ya que estas son las que uso en los computadores de mi día a día.</p>
+
+<p>No pienso presentarme acá ya que este no es el motivo de mi primer post para eso esta la página &ldquo;Sobre mi&rdquo;.</p>
+
+<p>Creo que no hay más que contar espero de verdad poder mantener este blog, seguro que haré hasta lo imposible xD.</p>
+]]></content>
+  </entry>
+  
+</feed>

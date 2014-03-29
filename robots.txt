@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: cartoon.github.io/sitemap.xml 
